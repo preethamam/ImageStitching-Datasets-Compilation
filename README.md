@@ -33,7 +33,7 @@ note = {Condition assessment, Crack localization, Crack change detection, Synthe
 ```
 
 # Acknowledgements
-To all the authors who made the image stitching datasets public.
+I am thankful to all the authors who made the image stitching datasets public.
 
 # Feedback
 Please rate and provide feedback for further improvements.
